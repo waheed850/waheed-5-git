@@ -1,0 +1,17 @@
+table, th, td {
+     border-collapse: collapse;
+     border: 2px solid black;
+     width: 100px;
+}
+ th, td{
+    padding: 30px;
+    text-align: center;
+    border-image-outset: ;
+}
+td:hover{
+background-color: blue;
+
+}
+table{
+    background-color: aqua;
+}
